@@ -145,3 +145,7 @@ for automovel in listaAutomoveis:
 ## Conclusão
 
 A Programação Orientada a Objetos é essencial para o desenvolvimento moderno, permitindo sistemas mais organizados, reutilizáveis e fáceis de dar manutenção. Ao criar este relatório, foi possível reforçar a importância dos quatro pilares da POO e compreender como eles tornam o código mais estruturado e eficiente.
+
+Fontes: https://www.alura.com.br/artigos/poo-programacao-orientada-a-objetos?srsltid=AfmBOop9y4Nk_kC4Gv8yJyexc_d0ER-hul6tzMZERXpTgSymwaob_Rf_
+
+Apoio: Notebook LM
